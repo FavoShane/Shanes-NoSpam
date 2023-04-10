@@ -1,6 +1,0 @@
-name: Shanes-NoSpam
-version: '${project.version}'
-main: net.gamingwithshane.fantasymc.plugins.nospam.NoSpam
-api-version: 1.19
-prefix: Shane's NoSpam
-load: STARTUP
